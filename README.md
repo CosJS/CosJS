@@ -1,0 +1,5 @@
+- 👋 Hi, I’m CosJS
+- 👀 I’m interested in coding in general
+- 🌱 I’m currently learning google cloud
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me CosJS#1131
